@@ -18,7 +18,7 @@ class Home extends Component{
                         <Carousel.Item>
                             <img
                                 className="d-block w-100"
-                                src="img/Banner1.png"
+                                src="img/1.png"
                                 alt="First slide"
                             />
                         </Carousel.Item>
