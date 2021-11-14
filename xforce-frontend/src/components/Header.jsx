@@ -54,8 +54,8 @@ class Header extends React.Component {
                 <Toolbar>
                     <Link to="/home" style={{ textDecoration: "none", display: "flex" }}>
                         <Avatar
-                            alt="Bag"
-                            src="https://i.pinimg.com/736x/23/f7/c4/23f7c4409cb3b22e3e77f71ee7fefc9a.jpg"
+                            alt="Portal ITM"
+                            src="img/logo_mision.png"
                         />
                         <Typography
                             style={{
@@ -66,7 +66,7 @@ class Header extends React.Component {
                             variant="h6"
                             sx={{ flexGrow: 1 }}
                         >
-                            &nbsp; Megasales
+                            &nbsp; Portal Universitario Guajira, Fraternidad y Robledo
                         </Typography>
                     </Link>
                     <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>

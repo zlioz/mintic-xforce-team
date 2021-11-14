@@ -40,17 +40,13 @@ class Home extends Component{
                 </Row>
                 <Row>
                     <Col>
-                        <h1 className="mainTittleH1"> Let's Go! </h1>
+                        <h1 className="mainTittleH1"> Bienvenido </h1>
                     </Col>
                 </Row>
                 <Row className="mb-5">
                     <Col>
                         <p className="mainTittleP">
-                            This is a web application for the sale of electronic products,
-                            with crazy promotions and discounts. Enter now, and enjoy all the
-                            products we have for you. To register you only need to have a Gmail account,
-                            wait for the user permissions to be granted by the administrator, and that's it.
-                            You're welcome!
+                            Este es un Portal universitario no oficial y presentación con fines academicos.
                         </p>
                     </Col>
                 </Row>
